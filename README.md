@@ -1,2 +1,3 @@
 # hello-world
-his repository is for practicing the GitHub Flow.
+this repository is for practicing the GitHub Flow.
+First step is create a portfolio
